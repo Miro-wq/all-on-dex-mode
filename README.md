@@ -36,13 +36,13 @@ This project is intended for those who want to use their mobile phone, with Sams
 - After cloning a repository to your phone's storage, you can add or delete files as needed. To push these changes to your personal GitHub repository, follow these steps:
 
 1. **Clone the Personal Repository:**
-   - Use mGit to clone your personal repository to your phone's storage.
+   - Use MGit to clone your personal repository to your phone's storage.
 
 2. **Make the Desired Changes:**
    - Make any changes you want to the files in the repository.
 
 3. **Stage, Commit, and Push:**
-   - Execute the following commands in mGit:
+   - Execute the following commands in MGit:
      1. `add all to stage`
      2. `commit`
      3. `push`
