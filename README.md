@@ -7,14 +7,28 @@ This project is intended for those who want to use their mobile phone, with Sams
 1. **Generate a Personal Access Token:**
    - First, set up your personal GitHub account by generating a personal access token (classic mode). Make sure to grant the necessary permissions.
 
+![GitHub Settings](images/gittoken.jpg)
+
 2. **Install mGit:**
-   - After installing the mGit application, go to the settings and configure the location where you want to save projects from GitHub.
+    - You can use the MGit apk, which can be downloaded from [F-Droid](https://f-droid.org/en/packages/com.manichord.mgit/) or from GitHub [here](https://github.com/maks/MGit). It is one of the best and easiest app to use for cloning, committing, and pushing to GitHub.
+   - After installing the MGit app, go to the settings and configure the location where you want to save projects from GitHub.
+
+  ![MGit Settings](images/mgitsett.jpg)
+
+   ![MGit Settings](images/Screenshot6.jpg)
+
    - Enter your GitHub username and the email address associated with your GitHub account.
-   - Generate a new SSH key within the mGit app and import it into your GitHub account under the **SSH and GPG Keys** section.
+   - Generate a new SSH key within the MGit app and import it into your GitHub account under the **SSH and GPG Keys** section.
+
+     ![MGit Settings](images/mgitssh.jpg)
+
+   ![GitHub Settings](images/gitssh.jpg)
 
 ## Cloning a Repository
 
-- To clone a repository to your phone's storage, you can use the mGit application, which can be downloaded from [F-Droid](https://f-droid.org/en/packages/com.manichord.mgit/) or from GitHub [here](https://github.com/maks/MGit). It is one of the best and easiest applications to use for cloning, committing, and pushing to GitHub.
+- To clone a repository to your phone's storage, you can use the MGit app.
+
+    ![MGit](images/clone.jpg)
 
 ## Making Changes and Pushing to Your Repository
 
@@ -31,6 +45,8 @@ This project is intended for those who want to use their mobile phone, with Sams
      1. `add all to stage`
      2. `commit`
      3. `push`
+
+    ![MGit Settings](images/)
 
    - During the push, a prompt will appear indicating that you don't have the correct credentials. Close this prompt and enter:
      - **Author**: your GitHub username
