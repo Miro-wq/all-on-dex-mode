@@ -15,9 +15,10 @@ This project is intended for those who want to use their mobile phone, with Sams
 
   ![MGit Settings](images/mgitsett.jpg)
 
-   ![MGit Settings](images/mgitsetts.jpg)
-
    - Enter your GitHub username and the email address associated with your GitHub account.
+
+    ![MGit Settings](images/mgitsetts.jpg)
+
    - Generate a new SSH key within the MGit app and import it into your GitHub account under the **SSH and GPG Keys** section.
 
      ![MGit Settings](images/mgitssh.jpg)
