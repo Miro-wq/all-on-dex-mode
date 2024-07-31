@@ -13,23 +13,23 @@ This project is intended for those who want to use their mobile phone, with Sams
     - You can use the MGit apk, which can be downloaded from [F-Droid](https://f-droid.org/en/packages/com.manichord.mgit/) or from GitHub [here](https://github.com/maks/MGit). It is one of the best and easiest app to use for cloning, committing, and pushing to GitHub.
    - After installing the MGit app, go to the settings and configure the location where you want to save projects from GitHub.
 
-  ![MGit Settings](images/mgitsett.jpg)
+![MGit Settings](images/mgitsett.jpg)
 
    - Enter your GitHub username and the email address associated with your GitHub account.
 
-    ![MGit Settings](images/mgitsetts.jpg)
+![MGit Settings](images/mgitsetts.jpg)
 
    - Generate a new SSH key within the MGit app and import it into your GitHub account under the **SSH and GPG Keys** section.
 
-     ![MGit Settings](images/mgitssh.jpg)
+![MGit Settings](images/mgitssh.jpg)
 
-   ![GitHub Settings](images/gitssh.jpg)
+![GitHub Settings](images/gitssh.jpg)
 
 ## Cloning a Repository
 
 - To clone a repository to your phone's storage, you can use the MGit app.
 
-    ![MGit](images/clone.jpg)
+![MGit](images/clone.jpg)
 
 ## Making Changes and Pushing to Your Repository
 
