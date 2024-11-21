@@ -1,8 +1,7 @@
-# Project Description
+![Description](https://img.shields.io/badge/Description-purple?style=for-the-badge)
+>This project is intended for those who want to use their mobile phone, with Samsung DeX capabilities, specifically for coding. Below are the steps to follow:
 
-This project is intended for those who want to use their mobile phone, with Samsung DeX capabilities, specifically for coding. Below are the steps to follow:
-
-## Initial Setup for Your GitHub Account
+![Initial Setup for Your GitHub Account](https://img.shields.io/badge/Initial%20Setup%20for%20Your%20GitHub%20Account-purple?style=for-the-badge)
 
 1. **Generate a Personal Access Token:**
    - First, set up your personal GitHub account by generating a personal access token (classic mode). Make sure to grant the necessary permissions.
@@ -25,13 +24,13 @@ This project is intended for those who want to use their mobile phone, with Sams
 
 ![GitHub Settings](images/gitssh.jpg)
 
-## Cloning a Repository
+![Cloning a Repository](https://img.shields.io/badge/Cloning%20a%20Repository-purple?style=for-the-badge)
 
 - To clone a repository to your phone's storage, you can use the MGit app.
 
 ![MGit](images/clone.jpg)
 
-## Making Changes and Pushing to Your Repository
+![Making Changes and Pushing to Your Repository](https://img.shields.io/badge/Making%20Changes%20and%20Pushing%20to%20Your%20Repository-purple?style=for-the-badge)
 
 - After cloning a repository to your phone's storage, you can add or delete files as needed. To push these changes to your personal GitHub repository, follow these steps:
 
@@ -56,12 +55,11 @@ This project is intended for those who want to use their mobile phone, with Sams
 4. **Successful Push:**
    - After entering the credentials, the push will be successfully executed to your personal repository on GitHub.
 
-## Editing Files
+![Editing Files](https://img.shields.io/badge/Editing%20Files-purple?style=for-the-badge)
 
 - To edit files in the repository, you can use various applications like Codespace, Stackblitz, or Codesandbox.
 
-## Limitations
-
-- Note that in locally installed coding applications on your phone, entire folders cannot be uploaded due to the FileSystem API limitations of browsers.
+> [!NOTE]  
+> In locally installed coding applications on your phone, entire folders cannot be uploaded due to the FileSystem API limitations of browsers.
 
 This detailed guide should help users set up and use their mobile phones for coding with Samsung DeX and mGit.
